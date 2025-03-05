@@ -54,5 +54,5 @@ Produtividade e organização são importantes, um relatório detalhado e desorg
 Manter listas de verificação, modelos de relatório para avaliações diferentes e um banco de dados descobertas/vulnerabilidades, o banco de dados pode ser uma planilha ou algo complexo com título, descrição impacto, remediação e referência. Ter isso escrito facilita na hora de montar um relatório final
 
 [Próxima aula](3_VPN.md)
-[hackthebox.com](https://academy.hackthebox.com/module/77/section/766)
+[hackthebox.com](../../README.md)
 

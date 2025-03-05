@@ -31,4 +31,4 @@ desvantagens incluem a possibilidade da vpn não armazenar os dados que deveriam
 Uma vpn pode ser muito importante para contornar firewalls e restrições de rede, principalmente no escopo da cibersegurança. Ou quando você se conectar a uma rede wi-fi pública
 
 [Próxima aula](4_termos-comuns.md)
-[hackthebox.com](https://academy.hackthebox.com/module/77/section/723)
+[hackthebox.com](../../README.md)
