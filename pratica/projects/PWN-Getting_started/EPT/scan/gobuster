@@ -1,0 +1,35 @@
+└──╼ [★]$ sudo gobuster dir -u 10.129.126.221 -w directory-list-2.3-medium.txt -o gobusterScan -x .txt,.html,.htm,.php,.xml,.rsa
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://10.129.126.221
+[+] Method:                  GET
+[+] Threads:                 10
+[+] Wordlist:                directory-list-2.3-medium.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.6
+[+] Extensions:              txt,html,htm,php,xml,rsa
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+/.html                (Status: 403) [Size: 279]
+/.php                 (Status: 403) [Size: 279]
+/.htm                 (Status: 403) [Size: 279]
+/index.php            (Status: 200) [Size: 5485]
+/sitemap.xml          (Status: 200) [Size: 431]
+/data                 (Status: 301) [Size: 315] [--> http://10.129.126.221/data/]
+/admin                (Status: 301) [Size: 316] [--> http://10.129.126.221/admin/]
+/plugins              (Status: 301) [Size: 318] [--> http://10.129.126.221/plugins/]
+/theme                (Status: 301) [Size: 316] [--> http://10.129.126.221/theme/]
+/readme.txt           (Status: 200) [Size: 1958]
+/robots.txt           (Status: 200) [Size: 32]
+/LICENSE.txt          (Status: 200) [Size: 35147]
+/backups              (Status: 301) [Size: 318] [--> http://10.129.126.221/backups/]
+Progress: 240384 / 1543927 (15.57%)^C
+[!] Keyboard interrupt detected, terminating.
+Progress: 240834 / 1543927 (15.60%)
+===============================================================
+Finished
+===============================================================
