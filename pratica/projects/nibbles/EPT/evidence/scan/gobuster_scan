@@ -1,0 +1,35 @@
+─[us-academy-3]─[10.10.15.12]─[htb-ac-1284200@htb-y4a3oteyp0]─[/usr/share/wordlists/dirbuster]
+└──╼ [★]$ sudo gobuster dir -u 10.129.200.170/nibbleblog/ -w directory-list-1.0.txt -x .htm,.html,.php,.pdf,.rsa -o gobuster_scan
+===============================================================
+Gobuster v3.6
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://10.129.200.170/nibbleblog/
+[+] Method:                  GET
+[+] Threads:                 10
+[+] Wordlist:                directory-list-1.0.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.6
+[+] Extensions:              htm,html,php,pdf,rsa
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+/.html                (Status: 403) [Size: 305]
+/.htm                 (Status: 403) [Size: 304]
+/.php                 (Status: 403) [Size: 304]
+/languages            (Status: 301) [Size: 331] [--> http://10.129.200.170/nibbleblog/languages/]
+/content              (Status: 301) [Size: 329] [--> http://10.129.200.170/nibbleblog/content/]
+/index.php            (Status: 200) [Size: 2987]
+/themes               (Status: 301) [Size: 328] [--> http://10.129.200.170/nibbleblog/themes/]
+/sitemap.php          (Status: 200) [Size: 402]
+/admin                (Status: 301) [Size: 327] [--> http://10.129.200.170/nibbleblog/admin/]
+/admin.php            (Status: 200) [Size: 1401]
+/feed.php             (Status: 200) [Size: 302]
+Progress: 25804 / 850254 (3.03%)^C
+[!] Keyboard interrupt detected, terminating.
+Progress: 25834 / 850254 (3.04%)
+===============================================================
+Finished
+===============================================================
+
