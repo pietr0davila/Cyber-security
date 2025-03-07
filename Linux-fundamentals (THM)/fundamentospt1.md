@@ -27,3 +27,5 @@ O linux é principalmente baseado em *linha de comando* e tem pouca GUI. No linu
 | `&&`     | Combina comandos, onde o segundo só roda se o primeiro der certo. | `comando1 && comando2`  |
 | `>`      | Redireciona a saída pra um arquivo, substituindo o conteúdo se o arquivo já existir. | `echo "conteúdo" > arquivo.txt` |
 | `>>`     | Adiciona a saída ao final de um arquivo sem apagar o que já estava lá. | `echo "mais conteúdo" >> arquivo.txt` | 
+
+[próxima aula](fundamentospt2.md)
