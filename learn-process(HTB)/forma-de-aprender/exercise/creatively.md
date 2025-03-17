@@ -1,0 +1,17 @@
+Ser criativo na resolução de problemas significa buscar sempre métodos alternativos ou não convencionais para resolver algum problema em questão, alguém criativo pode pensar em várias ideias para resolver um problema. Pessoas criativas em pentest conseguem resolver problemas de formas que outras pessoas não podem nem imaginar. 
+
+É possível se tornar criativo?
+Quando vemos artistas famosos com uma criatividade, logicamente pensamos que eles nasceram com dom por sorte ou ajuda de alguma força divina mas não. Infelizmente não foi descoberta uma forma de treinar a criatividade de forma tão eficaz, mas alguns locais ensinam criatividade nas escolas desde cedo para "desbloquear" essa capacidade nas crianças sem depender 100% da genética. Em contra partida, a maior parte do mundo expulsa das crianças qualquer resquicio de criatividade, isso pode ser devido a forma antiquada d ensino em todo o mundo, onde a criança deve ficar sentada olhando para a cabeça do colega e deve copiar o que o professor escreve em uma tela e depois fazer exercícios baseado nessas 2 páginas de estudo. Essa forma de ensino não permite que a criança resolva os problemas da sua forma, por exemplo. A maneira que a escola ensinou para somar um número com outro é
+   ¹¹
+  2586
+ +6019
+ ------
+  8605
+
+A escola ensina essa forma, mas existem outras formas de resolver o mesmo problema. Obviamente nesse exemplo a maneira como a escola ensinou é a mais eficaz, mas mesmo assim, falando de outros assuntos como a própria vida real, a criança deveria poder resolver problemas de acordo com o seu pensamento, e não ouvindo um professor passar a resposta para que ele copie, isso não é aprendizado, isso é simplesmente capacidade de decorar informações sobre um assunto.
+ 
+Como mudar isso?
+A resposta é mais simples do que parece, quando você está na escola você não tem permissão para errar, os professores dizem que "não tem nada errado em errar" ou que "tá td bem, errar é humano" mas isso é mentira! no quesito da escola, errar é patético, e os alunos sabem disso, errar é patético por que você está em um ambiente onde as respostas são entregues na sua mão, errar é o mesmo que "ignorar", professores podem não pensar ou dizer isso, mas eu afirmo com toda certeza que alunos tem plena noção disso. A primeira coisa a se fazer é não fornecer as respostas aos alunos, é fazer com que eles descubram sozinhos, por exemplo, ao invés do professor dizer "o brasil se tornou independente dia 7 de setembro" ele deveria perguntar aos alunos diretamente "Em qual dia o brasil se tornou independente", nesse caso, a não ser que você esteja fora do brasil, você vai associar a independência do brasil ao dia 7 de setembro, já que temos um feriado com esse nome. Caso seja uma pergunta que possivelmente o aluno não saberia da resposta, isso forçaria ele a procurar a resposta, seja no livro ou no próprio celular "mas por que ele procuraria?" Simples, o Ser-humano tende a ser competitivo, então os alunos procurariam a resposta para a pergunta para ser melhor que os outros colegas "Então por que temos alunos que não se importam com a escola?"
+Alunos não se importam com a escola por conta do próprio sistema escolar, que não dá abertura para pensamentos diferentes
+
+Existem outras formas de incentivar a criatividade nas escolas, por exemplo, alguma vez alguém perguntou o por que de uma forma matemática especifica ser exatamente assim e a resposta dele foi algo como por que sim? Provavelmente sua resposta foi sim, isso só prova como certos pontos não tem sentiod

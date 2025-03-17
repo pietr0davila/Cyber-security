@@ -7,4 +7,5 @@ Iniciantes costumam usar o ubuntu ou o fedora para computador pessoal por serem 
 
 As principais diferenças entre as distros são as ferramentas instaladas e Interface do usuário. A mais usada pelos especialistas de CyberSecurity é o Kali Linux. Ubuntu é preferido para desktop. Debian para sistemas embarcados e RedHat enterprise Linux e CentOS são muito usados por companhias
 
-
+[fontes](https://academy.hackthebox.com/module/18/section/2091)
+[Aula 4](../shell/4_shell.md)

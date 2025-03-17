@@ -54,4 +54,5 @@ O centro da filosofia do linux é Simplicidade, modularidade e abertura. Defende
 | **/var**  | Contém dados variáveis (Como logs, crontabs e outros)                                            |
 ![Hierarquia](/content/hierarquia-de-arquivos.png)
 
-[Aula 3](../distros/linux-distros.md)
+[font](https://academy.hackthebox.com/module/18/section/94)
+[Aula 3](../distros/3_linux-distros.md)

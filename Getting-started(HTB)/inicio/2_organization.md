@@ -1,3 +1,4 @@
+# Aula 2
 Na área de segurança, organização é essencial. é importante ter uma documentação clara e concisa desde o começo. Isso te deixa a frente de muitos canditados e ainda garante que você consiga voltar atrás se necessário
 
 ## Estrutura de pastas

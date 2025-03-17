@@ -27,4 +27,5 @@ O código linux pode ser modificado e distribuido comercialmente (ou não) por q
 ²: O Projeto GNU consiste em subprojetos ou pacotes. O nome vem do acrônimo GNU'S not Unix. Faz parte de grande parte dos sistemas Linux
 ³: Núcleo de um sistema, é responsável por gerenciar o sistema.
 
-[Aula 2](philosofy.md)
+[fonte](https://academy.hackthebox.com/module/18/section/94)
+[Aula 2](2_philosophy.md)
